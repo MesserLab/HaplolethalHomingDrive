@@ -1,0 +1,370 @@
+LOCUS       RpL35A_gene_with        6411 bp ds-DNA     linear       26-SEP-2019
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:0
+FEATURES             Location/Qualifiers
+     gene            5750..6411
+                     /locus_tag="PEK Gene partial"
+                     /ApEinfo_label="PEK Gene partial"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff797d"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     3'UTR           4800..4877
+                     /locus_tag="RpL35A 3'UTR"
+                     /ApEinfo_label="RpL35A 3'UTR"
+                     /ApEinfo_fwdcolor="#f76ca1"
+                     /ApEinfo_revcolor="#f76ca1"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     promoter        3522..3941
+                     /locus_tag="U6:3 Promoter"
+                     /ApEinfo_label="U6:3 Promoter"
+                     /ApEinfo_fwdcolor="#346ee0"
+                     /ApEinfo_revcolor="#346ee0"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     3526..3546
+                     /locus_tag="Yellow_gRNA1_S_F"
+                     /ApEinfo_label="Yellow_gRNA1_S_F"
+                     /ApEinfo_fwdcolor="#a273ff"
+                     /ApEinfo_revcolor="#cd5bff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     5'clip          2261..2360
+                     /locus_tag="Homology Region"
+                     /ApEinfo_label="Homology Region"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     3'UTR           2183..2260
+                     /locus_tag="RpL35A 3'UTR(1)"
+                     /ApEinfo_label="RpL35A 3'UTR"
+                     /ApEinfo_fwdcolor="#f76ca1"
+                     /ApEinfo_revcolor="#f76ca1"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     complement(2191..2213)
+                     /locus_tag="Primer Rpl35ARight_S_R"
+                     /ApEinfo_label="Primer Rpl35ARight_S_R"
+                     /ApEinfo_fwdcolor="#a273ff"
+                     /ApEinfo_revcolor="#cd5bff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     5'clip          1969..2182
+                     /locus_tag="RpL35ALeftRecoded"
+                     /ApEinfo_label="RpL35ALeftRecoded"
+                     /ApEinfo_fwdcolor="#008000"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_binding    4214..4233
+                     /locus_tag="gRNA Target"
+                     /ApEinfo_label="gRNA Target"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff004b"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     tRNA            4137..4213
+                     /locus_tag="tRNA"
+                     /ApEinfo_label="tRNA"
+                     /ApEinfo_fwdcolor="#800080"
+                     /ApEinfo_revcolor="#800080"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     tRNA            3942..4039
+                     /locus_tag="Start and tRNA"
+                     /ApEinfo_label="Start and tRNA"
+                     /ApEinfo_fwdcolor="#800080"
+                     /ApEinfo_revcolor="#800080"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_RNA        4060..4136
+                     /locus_tag="gRNA Scaffold"
+                     /ApEinfo_label="gRNA Scaffold"
+                     /ApEinfo_fwdcolor="#ff6000"
+                     /ApEinfo_revcolor="#ff6000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     5'UTR           1577..1583
+                     /locus_tag="RpL35A Exon 3 5' UTR"
+                     /ApEinfo_label="RpL35A Exon 3 5' UTR"
+                     /ApEinfo_fwdcolor="#ff00ce"
+                     /ApEinfo_revcolor="#ff00ce"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             1584..1805
+                     /locus_tag="RpL35A Exon 3 CDS"
+                     /ApEinfo_label="RpL35A Exon 3 CDS"
+                     /ApEinfo_fwdcolor="#ddc700"
+                     /ApEinfo_revcolor="#ddc700"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             1931..1968
+                     /locus_tag="RpL35A Exon 4 CDS"
+                     /ApEinfo_label="RpL35A Exon 4 CDS"
+                     /ApEinfo_fwdcolor="#ddc700"
+                     /ApEinfo_revcolor="#ddc700"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    4316..4543
+                     /locus_tag="Homology Region(1)"
+                     /ApEinfo_label="Homology Region"
+                     /ApEinfo_fwdcolor="#00ffff"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             4776..4799
+                     /locus_tag="RpL35A Exon 5 CDS"
+                     /ApEinfo_label="RpL35A Exon 5 CDS"
+                     /ApEinfo_fwdcolor="#ddc700"
+                     /ApEinfo_revcolor="#ddc700"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     promoter        2365..2570
+                     /locus_tag="3xP3 Promoter"
+                     /ApEinfo_label="3xP3 Promoter"
+                     /ApEinfo_fwdcolor="#346ee0"
+                     /ApEinfo_revcolor="#346ee0"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             4214..4233
+                     /locus_tag="RpL35A Exon 4 CDS(1)"
+                     /ApEinfo_label="RpL35A Exon 4 CDS"
+                     /ApEinfo_fwdcolor="#ddc700"
+                     /ApEinfo_revcolor="#ddc700"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             4549..4707
+                     /locus_tag="RpL35A Exon 4 CDS(2)"
+                     /ApEinfo_label="RpL35A Exon 4 CDS"
+                     /ApEinfo_fwdcolor="#ddc700"
+                     /ApEinfo_revcolor="#ddc700"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     5'UTR           940..968
+                     /locus_tag="RpL35A Exon 2 5'UTR"
+                     /ApEinfo_label="RpL35A Exon 2 5'UTR"
+                     /ApEinfo_fwdcolor="#ff00ce"
+                     /ApEinfo_revcolor="#ff00ce"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     5'UTR           847..879
+                     /locus_tag="RpL35A Exon 1 5'UTR"
+                     /ApEinfo_label="RpL35A Exon 1 5'UTR"
+                     /ApEinfo_fwdcolor="#ff00ce"
+                     /ApEinfo_revcolor="#ff00ce"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_binding    4040..4059
+                     /locus_tag="gRNA Target(1)"
+                     /ApEinfo_label="gRNA Target"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff003f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     1490..1511
+                     /locus_tag="Rpl35ALeft_S_F"
+                     /ApEinfo_label="Rpl35ALeft_S_F"
+                     /ApEinfo_fwdcolor="#a273ff"
+                     /ApEinfo_revcolor="#cd5bff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            complement(1..170)
+                     /locus_tag="POLDIP2 (partial)"
+                     /ApEinfo_label="POLDIP2 (partial)"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     terminator      3268..3509
+                     /locus_tag="SV40 polyA"
+                     /ApEinfo_label="SV40 polyA"
+                     /ApEinfo_fwdcolor="#9d1b1c"
+                     /ApEinfo_revcolor="#9d1b1c"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     4696..4716
+                     /locus_tag="Primer Rpl35ARight_S_F"
+                     /ApEinfo_label="Primer Rpl35ARight_S_F"
+                     /ApEinfo_fwdcolor="#a273ff"
+                     /ApEinfo_revcolor="#cd5bff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_RNA        4234..4315
+                     /locus_tag="gRNA Scaffold(1)"
+                     /ApEinfo_label="gRNA Scaffold"
+                     /ApEinfo_fwdcolor="#ff6000"
+                     /ApEinfo_revcolor="#ff6000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     complement(1590..1610)
+                     /locus_tag="Primer Rpl35ALeft_S_R"
+                     /ApEinfo_label="Primer Rpl35ALeft_S_R"
+                     /ApEinfo_fwdcolor="#a273ff"
+                     /ApEinfo_revcolor="#cd5bff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             2590..3267
+                     /locus_tag="dsRed"
+                     /ApEinfo_label="dsRed"
+                     /ApEinfo_fwdcolor="#e40002"
+                     /ApEinfo_revcolor="#e40002"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     complement(4808..4830)
+                     /locus_tag="Primer Rpl35ARight_S_R(1)"
+                     /ApEinfo_label="Primer Rpl35ARight_S_R"
+                     /ApEinfo_fwdcolor="#a273ff"
+                     /ApEinfo_revcolor="#cd5bff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     3058..3078
+                     /locus_tag="Primer dsRed_S_F"
+                     /ApEinfo_label="Primer dsRed_S_F"
+                     /ApEinfo_fwdcolor="#a273ff"
+                     /ApEinfo_revcolor="#cd5bff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     complement(5045..5066)
+                     /locus_tag="Rpl35ARight_S2_R"
+                     /ApEinfo_label="Rpl35ARight_S2_R"
+                     /ApEinfo_fwdcolor="#a273ff"
+                     /ApEinfo_revcolor="#cd5bff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     complement(4440..4463)
+                     /locus_tag="Primer pCFD5_S_R"
+                     /ApEinfo_label="Primer pCFD5_S_R"
+                     /ApEinfo_fwdcolor="#a273ff"
+                     /ApEinfo_revcolor="#cd5bff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             4544..4548
+                     /locus_tag="RpL35A Exon 4 CDS(3)"
+                     /ApEinfo_label="RpL35A Exon 4 CDS"
+                     /ApEinfo_fwdcolor="#ddc700"
+                     /ApEinfo_revcolor="#ddc700"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     primer_bind     complement(3181..3201)
+                     /locus_tag="Primer dsRed_S_R"
+                     /ApEinfo_label="Primer dsRed_S_R"
+                     /ApEinfo_fwdcolor="#a273ff"
+                     /ApEinfo_revcolor="#cd5bff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 CTGCAGCTTC TTTCGGCGAT CAGTTCTCAG GTTCGGTTCG ATCTAGCAGG GCACATGTGC
+       61 TTCTAAATTT TGTGGCTGTC TCTAAAATCC CAACATTGTT ATGAACATTT TGATGTTGTT
+      121 TTCGGCACTG AAAAAAAACT CTATGCGATT GCGCGAGTCG GCGATAACCA CATTCGTTTG
+      181 TCGATAACAT TTCAGGGGCA AATCTGTCAG AATTTGTATT TAAATTTGAA AATAATTAAA
+      241 TCTGTAATCT AAATATAAAA CAAGAGATTA CAAGACTAGT TTTAGTCCAA TCAAGAACAA
+      301 TTATGTACAC CTTAGAGAAT CGAAGATGAC TTTTTCTGCG TTTTAATACG AATCTTGTAT
+      361 ACCCCATTAC TCTGCAGATA GTGTTACTTG CTTTTTCTAT TCAGCGGAAT AAATTTACCA
+      421 TATTAAAGGA TATATTTATC TATAATTTAT CCCTTTTATT CTTTAAAATG TGGTTATTTG
+      481 GCAAAAGCTT GGTAAAACTA AAAATGTAAA ATTACAGAAG AAAACAATTA TATTTAATAA
+      541 TTTCATACAT AAAGTTGAAT GTTAGAAAGG AACCATCTAA ATGAGCCTAA GCAGTTGTTT
+      601 TTTATAGTTT TAACAGAGAA GAGCATATGG TTTCTTCAAC CCGATTTAAA CTAACCCATG
+      661 TTTCGTATCT TGAGTATGCA TAAACTGTGA ATACAAATTA AAATTTAAAC AATGTATTGT
+      721 CTTATTTTTA CTAAGGGTTT TCTTTTCAAC TGAGGTTTAT TTTGCCCCTA ACAGCACACT
+      781 TTCGAGCAAC GGCGCGCTGT TTCACTTAAC ATATCGCGTT TTTGTGGCGT CTAGAGGCAG
+      841 CCACACTATT TCCTTCTTTT CGCTTTCGTT TCCGGCGAAG TAAGTAAATT AAATTTCTCT
+      901 GTATATTTTC CTTTAATAAT ATTCTGTTTT TGTTTTTAGC GGTGTTAATA CATTCATCGA
+      961 ACAACAAGGT GGGTTTCCGC GGACACCATA ATGGGAGTCT GTACACCGGA AAAACGGCAA
+     1021 ATAATCATGG AATAACCTGC AAACGCCAAC CCACGTGCAC AAAAATCTAC TGGCGAACTT
+     1081 TATCTGTGAT TTTTTGTGAC TAAGTGGTTC CTTGGGGACA ACCCAGGATA GGAGTACCCT
+     1141 ACTGGCAATG CCCGATTCGT AATAGCACCT CGATGCCGTC CAAAAGTTCC ATGCTTCGCA
+     1201 CAGTGCACAT TGATTGCAAA ATTTCAGCGT TCATTTTTGG CCTCCGCTTT TCTTGTTGTT
+     1261 TTTAACGTGA TTTCAATAAC TTCTTGTGGG AGATTAATAA GTGATCCGTG TTATCAGTTT
+     1321 TTGTTTTTAT CATTAAATGT TGCCCCAGGC CGGTCGGGTA CAGGCTTTCC TCGAATTTTC
+     1381 ACCAGACTCC GCTTTATTTT TATATAAAAT GATGTTTTTA ATGTACTGTT GCCCAGAGCT
+     1441 GTGCACCTCA ATATCTTCAA TGTTTAAAGT ACTTTTCGTT TGATCAAATG CATGCAAATG
+     1501 ATCGAAACCC TCAAGCCCCA ACGAATACCT ATGATGAATG CCTACGGCTC TAAAGATTAT
+     1561 CTTTTCTCAT CCACAGCTAA GCCATGGCCG ACACACAAGC CAAGTCCACT ACTGCGCCCA
+     1621 AGGCCGCCAA GGCCCAGAAG GCTCCCAAGG CCGTCAAGGC GCCTAAGGCC GAGAAGCCCG
+     1681 CCGCCTCAGA GGCTAAAGTT TCCGCCAAGA AGTACAAGCG TCACGGACGC CTCTTCGCCA
+     1741 AGGCCGTCTT CACCGGCTAC AAGCGTGGTC TGAGGAACCA GCACGAGAAC CAGGCCATCC
+     1801 TCAAGGTATG TCTATACTTC AATGTGATGG GTCCGGACTT CACAGAGTTT TTCAAATAAT
+     1861 AATTAATACA TTCCAGTTCT GTAAAAACAT TTTAGTAATG TAATTGATTA ACCAACATAT
+     1921 TACATTGCAG ATTGAGGGCG CCCGCCGCAA GGAGCACGGA TCCTTCTATG TGGGCAAGCG
+     1981 CTGTGTGTAC GTGTATAAGG CCGAGACGAA GAAGTGCGTC CCCCAGCACC CGGAGCGCAA
+     2041 GACGCGCGTG CGCGCCGTGT GGGGAAAGGT GACGCGCATT CATGGAAATA CGGGAGCCGT
+     2101 CCGCGCCCGC TTTAATCGCA ATCTGCCGGG CCACGCCATG GGACATCGCA TTCGCATTAT
+     2161 GCTGTATCCC AGCCGCATCT AAGTTAATAT CCGACTTGAA TTACTGACCT GCAGGAGTAA
+     2221 AAAATCCGTT TTACATTAAA TGAAACACTT TAAATTTAAT TAAAACGCAA CTTGGCTTTT
+     2281 TTATTAAGGC GAGATACCGA TTGAAAGTTG ACGGTAATCT GTATATCGAT TGATGGCTGT
+     2341 TCGGTTTGAC TTTCCCTACT CCCGGGATCT AATTCAATTA GAGACTAATT CAATTAGAGC
+     2401 TAATTCAATT AGGATCCAAG CTTATCGATT TCGAACCCTC GACCGCCGGA GTATAAATAG
+     2461 AGGCGCTTCG TCTACGGAGC GACAATTCAA TTCAAACAAG CAAAGTGAAC ACGTCGCTAA
+     2521 GCGAAAGCTA AGCAAATAAA CAAGCGCAGC TGAACAAGCT AAACAATCGG CTCGAAGCCG
+     2581 GTCGCCACCA TGGCCTCCTC CGAGGACGTC ATCAAGGAGT TCATGCGCTT CAAGGTGCGC
+     2641 ATGGAGGGCT CCGTGAACGG CCACGAGTTC GAGATCGAGG GCGAGGGCGA GGGCCGCCCC
+     2701 TACGAGGGCA CCCAGACCGC CAAGCTGAAG GTGACCAAGG GCGGCCCCCT GCCCTTCGCC
+     2761 TGGGACATCC TGTCCCCCCA GTTCCAGTAC GGCTCCAAGG TGTACGTGAA GCACCCCGCC
+     2821 GACATCCCCG ACTACAAGAA GCTGTCCTTC CCCGAGGGCT TCAAGTGGGA GCGCGTGATG
+     2881 AACTTCGAGG ACGGCGGCGT GGTGACCGTG ACCCAGGACT CCTCCCTCCA GGACGGCTCC
+     2941 TTCATCTACA AGGTGAAGTT CATCGGCGTG AACTTCCCCT CCGACGGCCC CGTAATGCAG
+     3001 AAGAAGACTA TGGGCTGGGA GGCGTCCACC GAGCGCCTGT ACCCCCGCGA CGGCGTGCTG
+     3061 AAGGGCGAGA TCCACAAGGC CCTGAAGCTG AAGGACGGCG GCCACTACCT GGTGGAGTTC
+     3121 AAGTCCATCT ACATGGCCAA GAAGCCCGTG CAGCTGCCCG GCTACTACTA CGTGGACTCC
+     3181 AAGCTGGACA TCACCTCCCA CAACGAGGAC TACACCATCG TGGAGCAGTA CGAGCGCGCC
+     3241 GAGGGCCGCC ACCACCTGTT CCTGTAGGGG CCGCGACTCT AGATCATAAT CAGCCATACC
+     3301 ACATTTGTAG AGGTTTTACT TGCTTTAAAA AACCTCCCAC ACCTCCCCCT GAACCTGAAA
+     3361 CATAAAATGA ATGCAATTGT TGTTGTTAAC TTGTTTATTG CAGCTTATAA TGGTTACAAA
+     3421 TAAAGCAATA GCATCACAAA TTTCACAAAT AAAGCATTTT TTTCACTGCA TTCTAGTTGT
+     3481 GGTTTGTCCA AACTCATCAA TGTATCTTAA CCGGTGAGCT CTTTTTTGCT CACCTGTGAT
+     3541 TGCTCCTACT CAAATACAAA AACATCAAAT TTTCTGTCAA TAAAGCATAT TTATTTATAT
+     3601 TTATTTTACA GGAAAGAATT CCTTTTAAAG TGTATTTTAA CCTATAATGA AAAACGATTA
+     3661 AAAAAAATAC ATAAAATAAT TCGAAAATTT TTGAATAGCC CAGGTTGATA AAAATTCATT
+     3721 TCATACGTTT TATAACTTAT GCCCCTAAGT ATTTTTTGAC CATAGTGTTT CAATTCTACA
+     3781 TTAATTTTAC AGAGTAGAAT GAAACGCCAC CTACTCAGCC AAGAGGCGAA AAGGTTAGCT
+     3841 CGCCAAGCAG AGAGGGCGCC AGTGCTCACT ACTTTTTATA ATTCTCAACT TCTTTTTCCA
+     3901 GACTCAGTTC GTATATATAG ACCTATTTTC AATTTAACGT CGGGGCTTTG AGTGTGTGTA
+     3961 GACATCAAGC ATCGGTGGTT CAGTGGTAGA ATGCTCGCCT GCCACGCGGG CGGCCCGGGT
+     4021 TCGATTCCCG GCCGATGCAG AGCACGGATC CTTCTACGTG TTTTAGAGCT AGAAATAGCA
+     4081 AGTTAAAATA AGGCTAGTCC GTTATCAACT TGAAAAAGTG GCACCGAGTC GGTGCTAACA
+     4141 AAGCACCAGT GGTCTAGTGG TAGAATAGTA CCCTGCCACG GTACAGACCC GGGTTCGATT
+     4201 CCCGGCTGGT GCAGCGTTGC GTCTATGTCT ACAGTTTTAG AGCTAGAAAT AGCAAGTTAA
+     4261 AATAAGGCTA GTCCGTTATC AACTTGAAAA AGTGGCACCG AGTCGGTGCT TTTTTGCCTA
+     4321 CCTGGAGCCT GAGAGTTGTT CAATAAAATA AAAATGTTTC GTTTTTTTGC TTTCGCCAGT
+     4381 ATTTATTATT TTTCATCAAT ATGTATTCAA TTTGGTATGT ATTTAGTAAT TGTAATATAT
+     4441 AGACAATGGT TTTCCGTTGA CGTACATACA TCTGACGTGT GTTTATTTAG ACATAATAGT
+     4501 TATGTTTTCA CATCTTTTTA ATGTTCGCTT AATGCGTATG CATACAAGGC CGAGACCAAG
+     4561 AAGTGCGTGC CACAGCATCC CGAGCGCAAG ACCCGCGTCC GCGCTGTCTG GGGCAAGGTC
+     4621 ACCCGCATCC ACGGCAACAC CGGCGCTGTG CGTGCCCGTT TCAACAGGAA CCTGCCCGGT
+     4681 CATGCCATGG GCCACCGCAT CCGCATCGTT AGTTCAAACA CACCTTCTCT GTCCGACAAT
+     4741 TGGGTTGTAT TAACATGCCT TCTTTTTTCT TGCAGATGCT GTACCCATCA AGGATTTAAG
+     4801 TTAATATCCG ACTTGAATTA CTGACCTGCA GGAGTAAAAA ATCCGTTTTA CATTAAATGA
+     4861 AACACTTTAA ATTTAATTAA AACGCAACTT GGCTTTTTTA TTAAGGCGAG ATACCGATGG
+     4921 AAAGTTGACG GTAATCTGTA TATCGATTGA TGGCTGTTCG GTTTGACTTT CCCTACTGCA
+     4981 ATGAATTATC TTTTGGCGGG ACCATCCACT TCGCATTAAA ATCCATTTAT ATTGATCTTA
+     5041 AGTAGCAGAT GAAGACGATG GAAACGTTTT AGAGTACGAA TTGAATGTGG ATTTCGAGAC
+     5101 TCTTGGCTAA TGTCGTTCCT TTAGATCAGA CATACCACTT CTACCACAAT AGATTTTAAT
+     5161 TAGTTTTGAA AATCTCAAAA CTATTTTTTG TATTGCCAAA GTCAACGAAT ACTGTAGTGT
+     5221 GTACTACTAA CGAATCTTTT CGCAAGGACA CTAGGGGTGT ATGGCGTAGC CTTTCTGCTC
+     5281 GAAAATCATA CGAATTCAAG TTTCTGTTAA TCAACAATGC GGTTTCTAAA AAAAATCAAG
+     5341 GAAATGGTTT CATAGTAATC AAGTTTTTTA AAAAGAATAA ATGTAATAAA CGTTTCTATA
+     5401 TTATGACGAA TATACCACCT AACATATTTT TAGAAGGTAG AGCATATTTA AATTAAAGTA
+     5461 ATGTTTGAAT TTCATTTGGT ATGTGTCAGA ATTATAGCCG AATAGAATTT ATTTTTAAAA
+     5521 CACGTCGAAT AATAGAAGTA TTCAATAAGA GATGAGATGG AAATAATACT TCATCTACTT
+     5581 TAATAATTAT TGTTAAGTTG TCCCTATTTG TGTCAAAACA TGGGCGTCAA ACATTGTTTT
+     5641 AAATTAGTTA CTGGAAAAGT TTAAAATAGT AAAACCTTAG TGAAACTGTT CCCACCGTGT
+     5701 GTATTTTTTT GGTACTTTTA GGTAATGACG AAATAAACTG TATTGTGGTG TCATCTGTTA
+     5761 TTTTAAGGCT GTCAAAACGC GGTCACACTT GCAATCGCGC GTTTTGCGGC CCAATCGGAA
+     5821 CAAAAACATA AACTGACCAG TTTTAGTGGA TTTAAATAGT AAAACCTTAG TGAAACTGTT
+     5881 CCCACCGTGT GTATTTTTTT GGTACTTTTA GGTAATGACG AAATAAACTG TATTGTGGTG
+     5941 TCATCTGTTA TTTTAAGGCT GTCAAAACGC GGTCACACTT GCAATCGCGC GTTTTGCGGC
+     6001 CCAATCGGAA CAAAAACATA AACTGACCAG TTTTAGTGGA TTTAAATAGT GGAGTTGCGA
+     6061 TTGATTGCTG CAGGAGCCAT CGAGAGTGAT GCGGAGATGT GCGCCGACCT TGCCGGGAGC
+     6121 CACTGCCGCC GCTGTTCCAC CAACCGACCC CCCGAAGTGA GGTCAACACG TCACCGTTCG
+     6181 AACCAATTAG AGACTTGCAT TTCTGCACCG TTCCCCGCGT CCGATCGCCA ACGACCAGGA
+     6241 TTACGTTATA TGCGCGTACG ATGCAGGACG ACCTGGATGG CATCGTGAGG CATCGTCGCC
+     6301 GGAGCCTGAG CTTCCTGCAG ATCGTCACGC TCACTATGGC CGGCCTGGTG GCTTTCGATC
+     6361 CCGCCCAGGT GCTAGCTGGG CACCCAACTA CTGATTCGGA GCTCCAGACT G
+//
